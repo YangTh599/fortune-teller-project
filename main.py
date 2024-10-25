@@ -89,6 +89,7 @@ while telling:
         sleep(2)
 
         print('Goodbye!')
+        sleep(2)
 
         # Sets fortune teller mode to false, breaks the while loop.
         telling = False
