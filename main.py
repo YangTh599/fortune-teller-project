@@ -21,7 +21,7 @@ def delayedPrint(str,time):
 # LISTS
 
 # Fortunes List
-fortunes = ['You are a winner!', 'A secret admirer will soon send you a sign of affection!', 'The one you love is much closer than you think!', 'Good things will happen to you by the end of the day today!', 'Fame and fortune will be yours if you take the time to learn Python!', 'I\'m just a computer program, and have no magical powers!']
+fortunes = ['You are a winner!', 'A secret admirer will soon send you a sign of affection!', 'The one you love is much closer than you think!', 'Good things will happen to you by the end of the day today!', 'Fame and fortune will be yours if you take the time to learn Python!', 'I\'m just a computer program, and have no magical powers!','Respect yourself and others will respect you.','You will receive money from an unexpected source.','Expect the unexpected.','Life is what happens to you while you are busy making other plans.']
 
 # Magical Colors List
 magical_colors = ['blue', 'red','green','yellow']
